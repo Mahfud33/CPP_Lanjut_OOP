@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
     Mahasiswa data2;
     data2.nama = "otong";
     data2.NIM = "13406001";
-    data2.jurusan = "teknik menjait";
+    data2.jurusan = "teknik menjahit";
     data2.IPK = 0.5;
     cout << "nama dari data1: " << data1.nama << endl;
     cout << "NIM dari data1 : " << data1.NIM << endl;
